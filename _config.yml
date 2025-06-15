@@ -17,11 +17,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Soo Young Kim's Math Blog"
-name: "Soo Young Kim"
-description: "M.S. Student in Mathematics, Seoul National University | B.S. in Statistics | SSHS alum"
-url: "https://mansour-16.github.io"
-baseurl: ""
+title                    : "Soo Young Kim's Math Blog"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Soo Young Kim"
+description              : "M.S. Student in Mathematics, SNU"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -111,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name: "Soo Young Kim"
+  name             : "Soo Young Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "M.S. Student, Mathematical Sciences, SNU; B.S. Statistics, SNU; Seoul Science High School"
-  location: "Seoul, South Korea"
-  email: "rlatndud979@snu.ac.kr"
+  bio              : "I am an **amazing** person."
+  location         : "Seoul, South Korea"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

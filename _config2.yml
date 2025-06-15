@@ -1,0 +1,15 @@
+title: "Soo Young Kim's Math Blog"
+description: "M.S. Student in Mathematics, SNU"
+url: "https://mansour-16.github.io"
+baseurl: ""
+
+author:
+  name: "Soo Young Kim"
+  bio: "M.S. Student, Mathematical Sciences, SNU; B.S. in Statistics; SSHS alum"
+  email: "your_email@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mansour-16"
+plugins:
+  - jekyll-include-cache
